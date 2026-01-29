@@ -1,6 +1,8 @@
+/* acessibility FIX: changed background from grey to a  off-white*/
 body {
   font-family: 'Roboto', Helvetica, sans-serif;
-  background-color: grey;
+  background-color:rgb(off-white);
+  color: 333; /* ensures text is dark grey / black for readability */
   margin: 0;
   padding: 0;
 }
