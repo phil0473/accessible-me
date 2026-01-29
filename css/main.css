@@ -101,6 +101,11 @@ form button {
   font-weight: bold;
 }
 
+form button:hover, 
+form button:focus {
+  background-color: #333;
+  color: #fff;
+}
 .site-footer {
   padding: 2rem 0;
 }
